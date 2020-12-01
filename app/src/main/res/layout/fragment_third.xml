@@ -6,9 +6,10 @@
     tools:context=".fragments.ThirdFragment">
 
     <TextView
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_centerInParent="true"
-        android:layout_height="match_parent"
-        android:text="Third Fragment" />
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="@string/third_fragment" />
 
 </RelativeLayout>
